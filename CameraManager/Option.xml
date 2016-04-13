@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ClientModel>
+  <Client Type="0" MVbr="V2.1.0.16" CVbr="2.1.0.12" CPath="/UpdateFile/2.1.0.16/MRMSSetup.exe"></Client>
+  <Client11 Type="1" MVbr="V2.1.0.16" CVbr="2.1.0.12" CPath="/UpdateFile/2.1.0.16/CheeseCloud.apk"></Client11>
+</ClientModel>
