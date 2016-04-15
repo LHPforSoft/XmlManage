@@ -48,6 +48,8 @@
     <Compile Include="CameraBase.cs" />
     <Compile Include="ConfigManage.cs" />
     <Compile Include="ICamera.cs" />
+    <Compile Include="IniManage.cs" />
+    <Compile Include="MethodOfKernel32.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TxtManage.cs" />

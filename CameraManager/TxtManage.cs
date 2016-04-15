@@ -26,6 +26,10 @@ namespace CameraManager
         }
         public int a;
 
+        public TxtManage()
+        {
+
+        }
 
         public void CreatTxt(string NewFile)
         {
